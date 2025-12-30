@@ -55,4 +55,4 @@ _docs
 
 The application allows exporting AI-generated insights as a PDF.
 
-👉 [Download Sample Training Plan PDF](_docs\AI_Performance_Insights.pdf)
+👉 [Download Sample Training Plan PDF](https://drive.google.com/file/d/1hyvGBi2ADa31cpREpArAA6oPd9gOsI-O/view?usp=sharing)
