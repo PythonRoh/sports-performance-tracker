@@ -56,3 +56,22 @@ The application can be deployed using:
 - Database: MongoDB Atlas
 
 Local setup is sufficient for evaluation.
+
+## Setup Instructions
+
+### Backend
+
+```bash
+cd server
+npm install
+cp .env.example .env
+npm run dev
+```
+
+### Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+```
