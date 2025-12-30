@@ -5,7 +5,7 @@ upload activity files, and receive AI-powered performance insights with a downlo
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication (Signup / Login)
 - Log workouts (type, duration, calories, etc.)
@@ -17,7 +17,7 @@ upload activity files, and receive AI-powered performance insights with a downlo
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -36,7 +36,7 @@ upload activity files, and receive AI-powered performance insights with a downlo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Sports-Performance-Tracker-with-AI-Insights/
@@ -46,3 +46,13 @@ Sports-Performance-Tracker-with-AI-Insights/
 ├── _SAMPLE_DEMO_ACCOUNT.md
 ├── .gitignore
 └── README.md
+```
+## Deployment (Optional)
+
+The application can be deployed using:
+
+- Frontend: Vercel / Netlify
+- Backend: Render / Railway
+- Database: MongoDB Atlas
+
+Local setup is sufficient for evaluation.
