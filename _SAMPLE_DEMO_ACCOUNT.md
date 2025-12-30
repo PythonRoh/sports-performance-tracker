@@ -29,13 +29,11 @@ The demo account includes the following logged workouts:
 
 These workouts are visualized in the dashboard and analytics pages.
 
-_docs
-/dashboard.png
+![Dashboard](https://drive.google.com/file/d/14sAmR6ITWN6B_WXnHOlHWWAgARgqt3eW/view?usp=sharing)
 
 ## Analytics View
 
-_docs
-/analytics.png
+![Analytics](https://drive.google.com/file/d/1MUKWaPouiSMPj1d8GlAz3DuniNfQjfch/view?usp=sharing)
 
 ## AI Performance Insight (Example)
 
@@ -48,8 +46,7 @@ The application uses Google Gemini API to analyze workout history and generate p
 - Training improvement suggestions
 - Weekly training plan
 
-_docs
-/AIinsights.png
+![AI Insights](https://drive.google.com/file/d/1SVo51wq-NLzQCb1AveHHIriygd_jvaHT/view?usp=sharing)
 
 ## Weekly Training Plan (PDF)
 
