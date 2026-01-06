@@ -33,7 +33,7 @@ export default function WorkoutChart({ workouts }) {
       <VictoryChart
         theme={VictoryTheme.material}
         domainPadding={{ x: 60 }} // more horizontal space
-        padding={{ top: 40, bottom: 90, left: 70, right: 40 }} // 🔥 room for labels
+        padding={{ top: 40, bottom: 90, left: 70, right: 40 }} // room for labels
         style={{
           background: { fill: "transparent" },
         }}
